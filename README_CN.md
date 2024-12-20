@@ -20,11 +20,11 @@
 
 方式1：通过 Gitee 脚本
 ```bash
-bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) githubReadme
+bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) 759d08c344874a8899c38cbe72510e70
 ```
 方式2：通过 GitHub 脚本
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 759d08c344874a8899c38cbe72510e70
 ```
 方式3：手动下载二进制文件
 > 从 [release](https://github.com/kingparks/cursor-vip/releases) 页下载对应操作系统的二进制文件
